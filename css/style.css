@@ -717,8 +717,8 @@ fieldset[disabled] .s-btn {
 
 .s-icon--white-brd:focus, .s-icon--white-brd:hover {
   color: #fff;
-  background: #13b1cd;
-  border-color: #13b1cd;
+  background-color: #0d7dc1;
+  border-color: #0d7dc1;
 }
 
 .s-icon--white-bg {
@@ -1913,7 +1913,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-header-v2__nav-link:hover {
-  color: #fff;
+  color: #0e7cc1;
 }
 
 .s-header-v2__nav-link:focus {
@@ -2014,7 +2014,7 @@ fieldset[disabled] .s-btn {
     color: rgba(34, 35, 36, 0.7);
   }
   .s-header__shrink .s-header-v2__nav-link:hover {
-    color: #13b1cd;
+    color: #0e7cc1;
   }
   .s-header__shrink .s-header-v2__nav-link:focus {
     color: rgba(34, 35, 36, 0.7);
