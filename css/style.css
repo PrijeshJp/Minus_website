@@ -2377,3 +2377,9 @@ fieldset[disabled] .s-btn {
 .divhid{
   display: none !important;
 }
+
+.fontcolor li{
+  font-size: 1rem;
+  font-weight: 300;
+  color: white;
+}
